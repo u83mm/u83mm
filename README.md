@@ -6,7 +6,7 @@
 <p>As a beginner developer, I've experience with several programming languages and technologies, including <strong><em>PHP</em></strong>, <strong><em>JavaScript</em></strong>, <strong><em>HTML5</em></strong>, <strong><em>CSS3</em></strong>, <strong><em>MariaDB</em></strong>, the <strong><em>Symfony</em></strong> framework, <strong><em>Docker</em></strong>, and <strong><em>Git</em></strong>. My knowledge of these tools and languages allows me to create dynamic, interactive websites and web applications using a variety of technologies. I'm also currently learning <strong><em>Python3</em></strong>, which is a powerful and versatile programming language used for a wide range of purposes, from web development and data analysis to artificial intelligence and scientific computing. Overall, my skills and experience make me a valuable asset to any development team.</p>
 
 
-- 🔭 I’m currently working on [my personal projects](https://jmmportfolio.000webhostapp.com/)
+- 🔭 I’m currently working on [my personal projects](https://github.com/u83mm?tab=repositories)
 
 - 🌱 I’m currently learning **Symfony and Laravel frameworks**
 
