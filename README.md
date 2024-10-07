@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Mario</h1>
+<h1 align="center">Hi there 👋, I'm Mario</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 ### About me
