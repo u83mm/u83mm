@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my personal projects](https://github.com/u83mm?tab=repositories)
 
-- 🌱 I’m currently learning **Symfony and Laravel frameworks**
+- 🌱 I’m currently learning **Symfony framework**
 
 - 👯 I’m looking to collaborate on **php projects**
 
