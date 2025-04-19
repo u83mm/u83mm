@@ -48,7 +48,7 @@ I build robust, scalable web applications with clean code and attention to perfo
 Explore my work at [github.com/u83mm](https://github.com/u83mm?tab=repositories)
 
 **Some highlights**:
-- 🍽️ **[Restaurant Management System](https://github.com/u83mm/restaurant-project)** - Full-stack solution with menu display, table reservations, and admin dashboard (Symfony/PHP/JS)
+- 🍽️ **[Restaurant Management System](https://github.com/u83mm/my-symfony-restaurant)** - Full-stack solution with menu display, table reservations, and admin dashboard (Symfony/PHP/JS)
 - ⏱️ **[Employee Time Tracker](https://github.com/u83mm/hourly-control)** - Secure login system with work hour recording, timesheet generation, and overtime calculation (PHP/JavaScript/MySQL)
 
 ## 💬 Let's Connect
